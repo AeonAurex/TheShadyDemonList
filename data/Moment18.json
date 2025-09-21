@@ -1,1 +1,23 @@
-
+{
+    "id": 68848817,
+    "name": "Moment",
+    "author": "Lexycat",
+    "creators": ["icedcave Lexycat Stormfly"],
+    "verifier": "NyxenGD",
+    "verification": "https://youtu.be/IZHh8fKYhqY?si=c-Lzo1KachiBr7vY",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+    "records": [{"user": "Frank Rizzington",
+        "link": "https://youtu.be/ihMfhH5KafA?si=5PppK3V73x10NnP6",
+        "percent": 100,
+        "hz": 360},
+        {"user": "KyleGMD1",
+        "link": "https://youtu.be/mYV3w44A4cU?si=aqP4tf7hndmIaJGZ",
+        "percent": 100,
+        "hz": 360},
+        {"user": "Syb",
+        "link": "https://youtu.be/fe8wXBPMUrY?si=hzDBChDTC7R5DQnJ",
+        "percent": 100,
+        "hz": 360}
+    ]
+}
