@@ -1,0 +1,28 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "NyxenGD",
+    "verification": "https://youtu.be/eAgXnMRNwuo?si=IoCqgwIdJIF3R_oA",
+    "percentToQualify": 60,
+    "password": "Not Copyable",
+    "records": [ 
+        { "user": "Frank Rizzington",
+        "link": "https://youtu.be/kaPcTj7fpBY?si=4RJ_wMIsYYG3HFVS",
+        "percent": 100,
+        "hz": 360},
+      
+        { 
+            "user": "KyleGMD1",
+        "link": "https://youtu.be/qy6BjI9zYMU?si=-EOflKrbl4TjsGf5",
+        "percent": 100,
+        "hz": 360},
+        
+       
+        
+        {"user": "Syb",
+        "link": "https://youtu.be/NicgX9TOaAk?si=-IltZl2pC6sgZ4Ae",
+        "percent": 100,
+        "hz": 360}]
+}
