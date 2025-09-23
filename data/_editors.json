@@ -1,17 +1,17 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Owner",
+        "name": "NyxenGD",
+        "link": "https://youtube.com/@nyxengd?si=QAILwQaHV_hTAICX"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Admin",
+        "name": "Frank Rizzington",
+        "link": "https://youtube.com/@frankrizzingtongeometrydash?si=AttCo_It4U-ZTdQV"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
+        "role": "Helper",
+        "name": "Kylegmd1",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
@@ -20,8 +20,8 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Dev",
+        "name": "NyxenGD",
+        "link": "https://youtube.com/@nyxengd?si=QAILwQaHV_hTAICX"
     }
 ]
