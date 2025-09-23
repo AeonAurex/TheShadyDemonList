@@ -1,0 +1,23 @@
+{
+    "id": 48454650,
+    "name": "Penombre",
+    "author": "Zephirox",
+    "creators": ["Zephirox"],
+    "verifier": "NyxenGD",
+    "verification": "https://youtu.be/w_kegO1k0js?si=LJyQdL8lHzfLub0S",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [ {"user": "KyleGMD1",
+        "link": "https://youtu.be/8geBbz9mnhg?si=Jicyj82DZvnmYpqu",
+        "percent": 100,
+        "hz": 360},
+      {"user": "Frank Rizzington",
+        "link": "https://youtu.be/XGdrU3TOLo0",
+        "percent": 100,
+        "hz": 360}
+           
+            
+          
+      
+    ]
+}
