@@ -1,0 +1,19 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": ["Gizbro Moosh"],
+    "verifier": "NyxenGD",
+    "verification": "https://youtu.be/fw9i2XUbEfM?si=wOuO1CcaUgf-MNMv",
+    "percentToQualify": "62",
+    "password": "Free To Copy",
+    "records": [{"user": "KyleGMD1",
+        "link": "https://youtu.be/jMeDus3VrkE?si=DpJoVCaEcxTx9fvk",
+        "percent": 100,
+        "hz": 360},
+        {"user": "Frank Rizzington",
+        "link": "https://youtu.be/Bv9M1DQfEFo?si=p7xap4b24NrJ0Nyv",
+        "percent": 100,
+        "hz": 360}
+    ]
+}
