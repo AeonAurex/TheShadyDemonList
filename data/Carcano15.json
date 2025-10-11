@@ -7,6 +7,9 @@
     "verification": "https://youtu.be/pfSIm62vtmM?si=WBlgynLTnrnraO06",
     "percentToQualify": "59",
     "password": "Free To Copy",
-    "records": [
+    "records": [{"user": "Ultroxus",
+        "link": "https://youtu.be/rM4eHRKjK3M?si=MdMp4e8kgo2F5n9s",
+        "percent": 100,
+        "hz": 360}
     ]
 }
