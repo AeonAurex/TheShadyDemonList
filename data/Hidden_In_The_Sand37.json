@@ -10,6 +10,10 @@
     "records": [ {"user": "Frank Rizzington",
         "link": "https://youtu.be/vsT2pGX1I8E?si=hsvfhx2RpxhB17pB",
         "percent": 100,
+        "hz": 360},
+        {"user": "KyleGMD1",
+        "link": "https://youtu.be/uFgJCTHb7fM?si=ElA7-iwT2kr4P5BB",
+        "percent": 100,
         "hz": 360}
       
            
