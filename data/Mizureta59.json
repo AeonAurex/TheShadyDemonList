@@ -10,6 +10,10 @@
     "records": [{"user": "Kylegmd1",
         "link": "https://youtu.be/LPNH6YbY2Mw?si=5fcJyEXnOBHqOjhb",
         "percent": 100,
+        "hz": 360},
+        {"user": "sanethegreat",
+        "link": "https://youtu.be/3QkWvnLU5Bc?si=mEJbtv6ZmVy9_5yl",
+        "percent": 100,
         "hz": 360}
     ]
 }
