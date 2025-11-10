@@ -14,6 +14,10 @@
         {"user": "Frank Rizzington",
         "link": "https://youtu.be/Bv9M1DQfEFo?si=p7xap4b24NrJ0Nyv",
         "percent": 100,
+        "hz": 360},
+        {"user": "Sanethegreat",
+        "link": "https://youtu.be/j-K5ShI8jDA?si=BRhLYqGRUXSa-tw2",
+        "percent": 100,
         "hz": 360}
     ]
 }
