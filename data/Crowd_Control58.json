@@ -7,6 +7,9 @@
     "verification": "https://youtu.be/NUEqgU1MLuY?si=IR77oHDuaIihz246",
     "percentToQualify": "58",
     "password": "Free To Copy",
-    "records": [
+    "records": [{ "user": "Frank Rizzington",
+        "link": "https://youtu.be/lHJ_n255XaU?si=I5-vEjZ9SxQ6A1q9",
+        "percent": 100,
+        "hz": 360}
     ]
 }
