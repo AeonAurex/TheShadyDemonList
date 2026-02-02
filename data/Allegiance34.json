@@ -10,7 +10,13 @@
     "records": [ {"user": "KyleGMD1",
         "link": "https://youtu.be/uFgJCTHb7fM?si=ElA7-iwT2kr4P5BB",
         "percent": 100,
-        "hz": 360}
+        "hz": 360},
+          {
+            "user": "DunkirK",
+            "link": "https://youtu.be/-ZHUvJC6xOY?si=YBzoglAcLNH4iqwi",
+            "percent": 100,
+            "hz": 360
+        }
       
            
             
