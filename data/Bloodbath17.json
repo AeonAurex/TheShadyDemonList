@@ -10,11 +10,8 @@
     "records": [{"user": "KyleGMD1",
         "link": "https://youtu.be/y4NWgLiBYe4?si=aJfAWSu6swzW-vHh",
         "percent": 100,
-        "hz": 360},
-        {"user": "PhobosGMD",
-        "link": "https://youtu.be/GRjwNWKjv9c?si=pZtD104OU6wYiYQf",
-        "percent": 100,
         "hz": 360}
+       
          
         
     ]
